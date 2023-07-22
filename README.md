@@ -6,3 +6,6 @@
 - used ngrok as backend
 - created a flask webhook with dialogflow
 - added web demo and embedded iframe to html website
+
+References:
+https://github.com/eleow/IRS-CS-2019-07-01-IS1FT-GRP-OliveFoodBot
